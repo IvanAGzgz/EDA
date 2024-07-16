@@ -2,7 +2,6 @@
 
 Este proyecto se centra en el Análisis Exploratorio de Datos (EDA) de una tienda ecommerce. El objetivo es extraer insights de negocio valiosos que permitan utilizar las palancas económicas de la empresa para alcanzar sus objetivos estratégicos.
 
-Descripción del Proyecto
 El proyecto incluye:
 - 🔍 Análisis Exploratorio de Datos (EDA): Exploración y visualización de los datos para comprender mejor las dinámicas del negocio y las características de los clientes.
 - 📊 Identificación de Insights de Negocio: Obtención de insights clave que pueden ayudar a optimizar las estrategias de marketing, mejorar la experiencia del cliente y aumentar las ventas.
