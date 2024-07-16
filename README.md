@@ -3,10 +3,10 @@ Este proyecto se centra en el Análisis Exploratorio de Datos (EDA) de una tiend
 
 Descripción del Proyecto
 El proyecto incluye:
+- 🔍 Análisis Exploratorio de Datos (EDA): Exploración y visualización de los datos para comprender mejor las dinámicas del negocio y las características de los clientes.
+- 📊 Identificación de Insights de Negocio: Obtención de insights clave que pueden ayudar a optimizar las estrategias de marketing, mejorar la experiencia del cliente y aumentar las ventas.
+- 🎯 Utilización de Palancas Económicas: Propuestas de acciones basadas en los insights obtenidos para utilizar eficazmente las palancas económicas de la empresa y alcanzar objetivos de negocio específicos.
 
-🔍 Análisis Exploratorio de Datos (EDA): Exploración y visualización de los datos para comprender mejor las dinámicas del negocio y las características de los clientes.
-📊 Identificación de Insights de Negocio: Obtención de insights clave que pueden ayudar a optimizar las estrategias de marketing, mejorar la experiencia del cliente y aumentar las ventas.
-🎯 Utilización de Palancas Económicas: Propuestas de acciones basadas en los insights obtenidos para utilizar eficazmente las palancas económicas de la empresa y alcanzar objetivos de negocio específicos.
 Características del Dataset
 El dataset incluye las siguientes variables:
 
