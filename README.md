@@ -1,4 +1,4 @@
-🛒 Análisis Exploratorio de Datos (EDA) para Ecommerce 📈
+🛒 Análisis Exploratorio de Datos (EDA) para Ecommerce 📈.
 Este proyecto se centra en el Análisis Exploratorio de Datos (EDA) de una tienda ecommerce. El objetivo es extraer insights de negocio valiosos que permitan utilizar las palancas económicas de la empresa para alcanzar sus objetivos estratégicos.
 
 Descripción del Proyecto
