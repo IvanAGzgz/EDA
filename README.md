@@ -7,7 +7,7 @@ El proyecto incluye:
 - 📊 Identificación de Insights de Negocio: Obtención de insights clave que pueden ayudar a optimizar las estrategias de marketing, mejorar la experiencia del cliente y aumentar las ventas.
 - 🎯 Utilización de Palancas Económicas: Propuestas de acciones basadas en los insights obtenidos para utilizar eficazmente las palancas económicas de la empresa y alcanzar objetivos de negocio específicos.
 
-Acciones a Realizar
+Acciones a Realizar:
 Basado en los insights obtenidos del análisis, se proponen las siguientes acciones con el objetivo de aumentar ingresos y reducir costes:
 
 - 🚚 Acciones de Mejora Logística
